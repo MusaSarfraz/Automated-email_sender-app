@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Virtual environment
+.venv/
+
+# PyInstaller / Inno Setup build output
+build/
+dist/
+Output/
+*.manifest
+
+# Secrets — never commit a real service-account key
+email_sender/assets/service_account.json
+
+# Spreadsheets with real recipient/lead data (keep out of the repo)
+*.xlsx
+*.xls
+
+# OS
+Thumbs.db
+desktop.ini
