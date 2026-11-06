@@ -8,7 +8,7 @@ cut** with no duplicate sends.
 Built for a small team (5–8 people): each person installs their own copy and
 sends from their own mailbox. No servers, no database, no code for end users.
 
-> 📖 **Full user + admin + developer guide:** [`email_sender/README.md`](email_sender/README.md)
+>  **Full user + admin + developer guide:** [`email_sender/README.md`](email_sender/README.md)
 
 ---
 
